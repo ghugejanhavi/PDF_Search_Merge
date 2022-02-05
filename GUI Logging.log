@@ -1,0 +1,9 @@
+2022-02-04 21:30:10,990 user 1 INFO Creating GUI
+2022-02-04 21:30:11,258 user 1 INFO Searching the file in given path
+2022-02-04 21:30:20,319 user 1 INFO Path of file entered
+2022-02-04 21:30:20,321 user 1 INFO Search successful
+2022-02-04 21:30:26,183 user 1 INFO Merge button pressed
+2022-02-04 21:30:26,188 user 1 ERROR [Errno 22] Invalid argument
+2022-02-04 21:30:30,095 user 1 INFO Merge button pressed
+2022-02-04 21:30:30,098 user 1 ERROR [Errno 22] Invalid argument
+2022-02-04 21:31:10,048 user 1 INFO Program was closed
