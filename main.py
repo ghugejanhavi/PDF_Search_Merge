@@ -15,7 +15,7 @@ root.geometry("600x600")
 # input field
 e = Entry(root, width=100, borderwidth = 5)
 e.pack(pady = 10)
-e.insert(0,"Enter the path:...... ")
+e.insert(0,"Enter the path - ")
 
 
 def Search():
